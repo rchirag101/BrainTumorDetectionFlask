@@ -18,7 +18,7 @@ h5py==2.10.0
 idna==3.1
 importlib-metadata==3.10.0
 itsdangerous==1.1.0
-Jinja2==2.11.3
+Jinja2==3.1.4
 Keras==2.4.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
